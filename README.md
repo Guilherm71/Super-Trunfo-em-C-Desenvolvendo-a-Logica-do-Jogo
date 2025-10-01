@@ -1,2 +1,2 @@
-# Super-Trunfo-em-C-Desenvolvendo-a-L-gica-do-Jogo
-O programa em C simula o jogo Super Trunfo com cartas de cidades. O usuário cadastra duas cartas com estado, código, nome, população, área, PIB e pontos turísticos. O sistema calcula densidade, PIB per capita e super poder, exibe os dados e compara os atributos, indicando a carta vencedora em cada categoria.
+# Super Trunfo em C Desenvolvendo a Lógica do Jogo
+O programa em C cadastra duas cartas de cidades com informações como estado, código, nome, população, área, PIB e pontos turísticos. Em seguida, calcula densidade populacional, PIB per capita e super poder. Após exibir os dados, o usuário pode realizar duas escolhas: visualizar os atributos de cada carta ou comparar diretamente os valores para definir a vencedora em cada categoria.
